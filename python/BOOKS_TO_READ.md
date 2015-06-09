@@ -1,3 +1,3 @@
 # Books #
 
-* [] http://www.effectivepython.com/
+* [ ] http://www.effectivepython.com/
