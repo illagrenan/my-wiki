@@ -19,3 +19,5 @@ Delete long path on Windows:
 ```
 mkdir D:\empty; robocopy /MIR D:\empty D:\Some\Long\Path
 ```
+
+HTTP testing: https://httpbin.org/
