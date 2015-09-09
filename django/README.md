@@ -1,5 +1,9 @@
 # Django misc #
 
+## Resources ##
+
+* https://gitlab.com/rosarior/awesome-django
+
 ## Misc ##
 
 Graph models:
