@@ -21,3 +21,9 @@ mkdir D:\empty; robocopy /MIR D:\empty D:\Some\Long\Path
 ```
 
 HTTP testing: https://httpbin.org/
+
+Disable tortoisegit spellchecker
+
+```
+git config [--global] tgit.projectlanguage '-1'
+```
