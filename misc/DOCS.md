@@ -1,6 +1,7 @@
 # Docs #
 
 - http://devdocs.io/ - dokumentace k vybraným open-source projektům
+- http://keepachangelog.com/
 
 ## Checklists ##
 
