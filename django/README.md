@@ -1,8 +1,20 @@
 # Django misc #
 
+## Prototyping ##
+
+- https://mmcardle.github.io/django_builder/#/home
+
 ## Resources ##
 
 * https://gitlab.com/rosarior/awesome-django
+* http://reinout.vanrees.org/weblog/tags/djangocon.html
+* http://www.fullstackpython.com/
+* RabbitMQ: http://localhost:15672/
+
+
+## Recipes ##
+
+- http://kevindias.com/writing/django-class-based-views-multiple-inline-formsets/
 
 ## Misc ##
 
